@@ -1,4 +1,4 @@
-name : FRONT-WORKFLOW
+name: FRONT-WORKFLOW
 on:
   push:
     branches: ["main"]
